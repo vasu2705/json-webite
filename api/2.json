@@ -1,0 +1,84 @@
+[
+  {
+    "login": "mojombo",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+    "url": {
+      "html_url": "https://github.com/mojombo"
+    },
+    "type": "Admin"
+  },
+  {
+    "login": "defunkt",
+    "avatar_url": "",
+    "url": {
+      "html_url": "https://github.com/defunkt"
+    },
+    "type": "User"
+  },
+  {
+    "login": "pjhyett",
+    "avatar_url": null,
+    "url": {
+      "html_url": "https://github.com/pjhyett"
+    },
+    "type": "User"
+  },
+  {
+    "login": "wycats",
+    "avatar_url": "",
+    "gravatar_id": "",
+    "url": {
+      "html_url": "https://github.com/wycats"
+    },
+    "type": "User"
+  },
+  {
+    "login": "ezmobius",
+    "node_id": "MDQ6VXNlcjU=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5?v=4",
+    "url": {
+      "html_url": "https://github.com/ezmobius"
+    },
+    "type": "User"
+  },
+  {
+    "login": "ivey",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6?v=4",
+    "url": {
+      "html_url": "https://github.com/ivey"
+    },
+    "type": "Admin"
+  },
+  {
+    "login": "evanphx",
+    "avatar_url": null,
+    "url": {
+      "html_url": "https://github.com/evanphx"
+    },
+    "type": "Admin"
+  },
+  {
+    "login": "vanpelt",
+    "avatar_url": null,
+    "url": {
+      "html_url": "https://github.com/vanpelt"
+    },
+    "type": "User"
+  },
+  {
+    "login": "wayneeseguin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/18?v=4",
+    "url": {
+      "html_url": "https://github.com/wayneeseguin"
+    },
+    "type": "User"
+  },
+  {
+    "login": "brynary",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19?v=4",
+    "url": {
+      "html_url": "https://github.com/brynary"
+    },
+    "type": "User"
+  }
+]
